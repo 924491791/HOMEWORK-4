@@ -8,13 +8,13 @@
 
 nslookup
 
-<img src="C:\Users\junow\Desktop\nslookup.png" alt="nslookup" style="zoom:60%;" />
+<img src="https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/2017312580002/nslookup.png?raw=true" alt="nslookup" style="zoom:60%;" />
 
 ------
 
 P22
 
-<img src="C:\Users\junow\Desktop\P22.PNG" alt="P22" style="zoom:60%;" />
+<img src="https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/2017312580002/P22.PNG?raw=true" alt="P22" style="zoom:60%;" />
 
 | 客户端-服务器 | 10      | 100      | 1000      |
 | ------------- | ------- | -------- | --------- |
@@ -32,7 +32,7 @@ P22
 
 P23
 
-<img src="C:\Users\junow\Desktop\p23.PNG" alt="p23" style="zoom:60%;" />
+<img src="https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/2017312580002/p23.PNG?raw=true" alt="p23" style="zoom:60%;" />
 
 a. us/N<=dmin,每个用戶可以以us/N的速率進行接收,分发时间为NF/us
 
@@ -50,7 +50,7 @@ us/N>=dmin时，NF/us>=F/dmin，此时Dcs=F/dmin。
 
 P25
 
-<img src="C:\Users\junow\Desktop\p25.PNG" alt="p25" style="zoom:60%;" />
+<img src="https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/2017312580002/p25.PNG?raw=true" alt="p25" style="zoom:60%;" />
 
 共N个节点，N(N-1)/2条边
 
